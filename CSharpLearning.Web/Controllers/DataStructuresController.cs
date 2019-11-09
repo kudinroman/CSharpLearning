@@ -1,6 +1,5 @@
 ﻿using CSharpLearning.Web.Models.DataStructures;
 using Microsoft.AspNetCore.Mvc;
-using System;
 
 namespace CSharpLearning.Web.Controllers
 {
@@ -9,6 +8,17 @@ namespace CSharpLearning.Web.Controllers
     {
         [Route("linked-list")]
         public IActionResult LinkedList()
+        {
+            var linkedList = new LinkedList<int>();
+            linkedList.Add(1);
+            linkedList.Add(2);
+            linkedList.Add(3);
+
+            return View(linkedList);
+        }
+
+        [Route("stack")]
+        public IActionResult Stack()
         {
             var linkedList = new LinkedList<int>();
             linkedList.Add(1);

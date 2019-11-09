@@ -20,7 +20,7 @@ namespace CSharpLearning.Web.Models.DataStructures
 
         public override string ToString()
         {
-            return base.ToString();
+            return Data.ToString();
         }
     }
 }
