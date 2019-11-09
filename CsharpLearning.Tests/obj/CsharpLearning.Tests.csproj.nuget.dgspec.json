@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kudin\\source\\repos\\CSharpLearning\\CsharpLearning.Tests\\CSharpLearning.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kudin\\source\\repos\\CSharpLearning\\CsharpLearning.Tests\\CSharpLearning.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kudin\\source\\repos\\CSharpLearning\\CsharpLearning.Tests\\CSharpLearning.Tests.csproj",
+        "projectName": "CSharpLearning.Tests",
+        "projectPath": "C:\\Users\\kudin\\source\\repos\\CSharpLearning\\CsharpLearning.Tests\\CSharpLearning.Tests.csproj",
+        "packagesPath": "C:\\Users\\kudin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kudin\\source\\repos\\CSharpLearning\\CsharpLearning.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kudin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\kudin\\Mobigility Inc\\Mobigility Packages Dev - Документы\\Mobigility.NuGet": {},
+          "C:\\Users\\kudin\\Mobigility Inc\\Spheroid Dev - Документы\\Spheroid.NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\kudin\\source\\repos\\CSharpLearning\\CSharpLearning.Web\\CSharpLearning.Web.csproj": {
+                "projectPath": "C:\\Users\\kudin\\source\\repos\\CSharpLearning\\CSharpLearning.Web\\CSharpLearning.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\kudin\\source\\repos\\CSharpLearning\\CSharpLearning.Web\\CSharpLearning.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kudin\\source\\repos\\CSharpLearning\\CSharpLearning.Web\\CSharpLearning.Web.csproj",
+        "projectName": "CSharpLearning.Web",
+        "projectPath": "C:\\Users\\kudin\\source\\repos\\CSharpLearning\\CSharpLearning.Web\\CSharpLearning.Web.csproj",
+        "packagesPath": "C:\\Users\\kudin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kudin\\source\\repos\\CSharpLearning\\CSharpLearning.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kudin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\kudin\\Mobigility Inc\\Mobigility Packages Dev - Документы\\Mobigility.NuGet": {},
+          "C:\\Users\\kudin\\Mobigility Inc\\Spheroid Dev - Документы\\Spheroid.NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.9, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

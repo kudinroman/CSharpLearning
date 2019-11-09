@@ -1,0 +1,17 @@
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\bin\Debug\netcoreapp2.2\CsharpLearning.Tests.deps.json
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\bin\Debug\netcoreapp2.2\CsharpLearning.Tests.runtimeconfig.json
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\bin\Debug\netcoreapp2.2\CsharpLearning.Tests.runtimeconfig.dev.json
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\bin\Debug\netcoreapp2.2\CsharpLearning.Tests.dll
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\bin\Debug\netcoreapp2.2\CsharpLearning.Tests.pdb
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\obj\Debug\netcoreapp2.2\CsharpLearning.Tests.csprojAssemblyReference.cache
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\obj\Debug\netcoreapp2.2\CsharpLearning.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\obj\Debug\netcoreapp2.2\CsharpLearning.Tests.AssemblyInfoInputs.cache
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\obj\Debug\netcoreapp2.2\CsharpLearning.Tests.AssemblyInfo.cs
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\obj\Debug\netcoreapp2.2\CsharpLearning.Tests.csproj.CopyComplete
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\obj\Debug\netcoreapp2.2\CsharpLearning.Tests.dll
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\obj\Debug\netcoreapp2.2\CsharpLearning.Tests.pdb
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\bin\Debug\netcoreapp2.2\CSharpLearning.Web.dll
+C:\Users\kudin\source\repos\CSharpLearning\CsharpLearning.Tests\bin\Debug\netcoreapp2.2\CSharpLearning.Web.pdb

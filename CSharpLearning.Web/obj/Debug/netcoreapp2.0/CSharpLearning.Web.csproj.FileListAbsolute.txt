@@ -1,0 +1,11 @@
+C:\Users\kudin\source\repos\CSharpLearning\CSharpLearning.Web\bin\Debug\netcoreapp2.0\CSharpLearning.Web.deps.json
+C:\Users\kudin\source\repos\CSharpLearning\CSharpLearning.Web\bin\Debug\netcoreapp2.0\CSharpLearning.Web.runtimeconfig.json
+C:\Users\kudin\source\repos\CSharpLearning\CSharpLearning.Web\bin\Debug\netcoreapp2.0\CSharpLearning.Web.runtimeconfig.dev.json
+C:\Users\kudin\source\repos\CSharpLearning\CSharpLearning.Web\bin\Debug\netcoreapp2.0\CSharpLearning.Web.dll
+C:\Users\kudin\source\repos\CSharpLearning\CSharpLearning.Web\bin\Debug\netcoreapp2.0\CSharpLearning.Web.pdb
+C:\Users\kudin\source\repos\CSharpLearning\CSharpLearning.Web\obj\Debug\netcoreapp2.0\CSharpLearning.Web.csproj.CoreCompileInputs.cache
+C:\Users\kudin\source\repos\CSharpLearning\CSharpLearning.Web\obj\Debug\netcoreapp2.0\CSharpLearning.Web.AssemblyInfoInputs.cache
+C:\Users\kudin\source\repos\CSharpLearning\CSharpLearning.Web\obj\Debug\netcoreapp2.0\CSharpLearning.Web.AssemblyInfo.cs
+C:\Users\kudin\source\repos\CSharpLearning\CSharpLearning.Web\obj\Debug\netcoreapp2.0\CSharpLearning.Web.dll
+C:\Users\kudin\source\repos\CSharpLearning\CSharpLearning.Web\obj\Debug\netcoreapp2.0\CSharpLearning.Web.pdb
+C:\Users\kudin\source\repos\CSharpLearning\CSharpLearning.Web\obj\Debug\netcoreapp2.0\CSharpLearning.Web.csprojAssemblyReference.cache
